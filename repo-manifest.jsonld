@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/executablebooks/sphinx-togglebutton/commit/76bb31f8824428cf66acc864ad6506dcbf90051a",
       "git:hexsha": "76bb31f8824428cf66acc864ad6506dcbf90051a",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.4.5"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.4.5",
+      "repolex:parsedAt": "2026-10-12T20:05:04.444289+00:00"
     },
     {
       "@id": "https://repolex.ai/r/executablebooks/sphinx-togglebutton/commit/3ff93805e7826eeb81b52ab24a7c5434655027b0",
